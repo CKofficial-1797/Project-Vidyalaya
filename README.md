@@ -60,10 +60,11 @@ The platform emphasizes performance, security, and maintainability while support
 - Admin team and permission management
 - User profile and activity management
 - Website customization (hero section, FAQs, banners, categories)
-- WebSocket-based real-time notifications and
+- WebSocket-based real-time notifications 
 - Content moderation for questions and reviews
 
 ---
+
 
 
 
