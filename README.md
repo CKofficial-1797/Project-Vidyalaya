@@ -50,6 +50,7 @@ The platform emphasizes performance, security, and maintainability while support
 - Real-time notifications for admin responses
 - DRM-protected video streaming
 - Learning progress tracking and certificate downloads
+- 
 
 ### Administrator Features
 - Centralized admin dashboard
@@ -63,6 +64,7 @@ The platform emphasizes performance, security, and maintainability while support
 - Content moderation for questions and reviews
 
 ---
+
 
 
 
